@@ -1,1 +1,1 @@
-
+git pull     //this command helps to get all the data from git to local machine.
